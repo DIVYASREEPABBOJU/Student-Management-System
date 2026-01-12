@@ -44,7 +44,6 @@ A complete walkthrough of the application demonstrating:
 
 ---
 
-upload demo video for the application
 
 https://github.com/user-attachments/assets/71ad99e3-8fec-40fd-acc2-bcb080169ad3
 
