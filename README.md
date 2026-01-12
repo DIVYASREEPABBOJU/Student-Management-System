@@ -33,10 +33,6 @@ A complete walkthrough of the application demonstrating:
 - Add, Edit, Update, and Delete Student
 - Logout functionality
 
-📌 **Watch the demo video here:**  
-👉 https://drive.google.com/file/d/1h9Bdcqy9PhyONPo10INNLvGw-i47EhQZ/view?usp=sharing
-
----
 
 ## 🛠️ Technologies Used
 
@@ -48,31 +44,9 @@ A complete walkthrough of the application demonstrating:
 
 ---
 
-## 🗂️ Project Structure
+upload demo video for the application
 
-StudentWebApp/
-│
-├── src/main/java
-│ └── com.student
-│ ├── db
-│ │ └── DBConn.java
-│ └── servlet
-│ ├── LoginServlet.java
-│ ├── SignupServlet.java
-│ ├── LogoutServlet.java
-│ ├── AddStudentServlet.java
-│ ├── EditStudentServlet.java
-│ ├── UpdateStudentServlet.java
-│ └── DeleteStudentServlet.java
-│
-├── src/main/webapp
-│ ├── adminDashboard.jsp
-│ ├── editStudent.jsp
-│ ├── login.jsp
-│ └── signup.jsp
-│
-└── README.md
-
+https://github.com/user-attachments/assets/71ad99e3-8fec-40fd-acc2-bcb080169ad3
 
 ---
 
